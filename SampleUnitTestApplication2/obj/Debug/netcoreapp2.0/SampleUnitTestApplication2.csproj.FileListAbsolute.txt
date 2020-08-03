@@ -1,0 +1,17 @@
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\appsettings.json
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\SampleUnitTestApplication2.deps.json
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\SampleUnitTestApplication2.runtimeconfig.json
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\SampleUnitTestApplication2.runtimeconfig.dev.json
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\SampleUnitTestApplication2.dll
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\bin\Debug\netcoreapp2.0\SampleUnitTestApplication2.pdb
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\obj\Debug\netcoreapp2.0\SampleUnitTestApplication2.csprojAssemblyReference.cache
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\obj\Debug\netcoreapp2.0\SampleUnitTestApplication2.csproj.CoreCompileInputs.cache
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\obj\Debug\netcoreapp2.0\SampleUnitTestApplication2.AssemblyInfoInputs.cache
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\obj\Debug\netcoreapp2.0\SampleUnitTestApplication2.AssemblyInfo.cs
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\obj\Debug\netcoreapp2.0\SampleUnitTestApplication2.dll
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\obj\Debug\netcoreapp2.0\SampleUnitTestApplication2.pdb
+C:\NextSource-Work\Test\UnitTestCore\SampleUnitTestApplication2\SampleUnitTestApplication2\obj\Debug\netcoreapp2.0\SampleUnitTestApplication2.genruntimeconfig.cache
